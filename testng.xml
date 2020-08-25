@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+<listeners>
+		<listener class-name="com.amazon.qa.util.ExtentReporterNG" />
+	</listeners>
+
+  <test  name="Test">
+    <classes>
+      <class name="com.wordpress.qa.testcases.ProductsPageTest"/>
+      <class name="com.wordpress.qa.testcases.CropsPageTest"/>
+      <class name="com.wordpress.qa.testcases.GalleryPageTest"/>
+      <class name="com.wordpress.qa.testcases.BPNPageTest"/>
+      <class name="com.wordpress.qa.testcases.HomePageTest"/>
+      <class name="com.wordpress.qa.testcases.AboutUsPageTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="11" passed="11">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="299979" started-at="2020-08-25T08:41:32 IST" finished-at="2020-08-25T08:46:32 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="299979" started-at="2020-08-25T08:41:32 IST" finished-at="2020-08-25T08:46:32 IST">
+      <class name="com.wordpress.qa.testcases.CropsPageTest">
+        <test-method status="PASS" signature="before()[pri:0, instance:com.wordpress.qa.testcases.CropsPageTest@307f6b8c]" name="before" is-config="true" duration-ms="17961" started-at="2020-08-25T08:42:00 IST" finished-at="2020-08-25T08:42:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="menuveify()[pri:1, instance:com.wordpress.qa.testcases.CropsPageTest@307f6b8c]" name="menuveify" duration-ms="8736" started-at="2020-08-25T08:42:18 IST" finished-at="2020-08-25T08:42:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menuveify -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:com.wordpress.qa.testcases.CropsPageTest@307f6b8c]" name="Teardown" is-config="true" duration-ms="253" started-at="2020-08-25T08:42:27 IST" finished-at="2020-08-25T08:42:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- com.wordpress.qa.testcases.CropsPageTest -->
+      <class name="com.wordpress.qa.testcases.AboutUsPageTest">
+        <test-method status="PASS" signature="before()[pri:0, instance:com.wordpress.qa.testcases.AboutUsPageTest@1a8a8f7c]" name="before" is-config="true" duration-ms="16305" started-at="2020-08-25T08:46:01 IST" finished-at="2020-08-25T08:46:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="menuveify()[pri:1, instance:com.wordpress.qa.testcases.AboutUsPageTest@1a8a8f7c]" name="menuveify" duration-ms="14497" started-at="2020-08-25T08:46:17 IST" finished-at="2020-08-25T08:46:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menuveify -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:com.wordpress.qa.testcases.AboutUsPageTest@1a8a8f7c]" name="Teardown" is-config="true" duration-ms="270" started-at="2020-08-25T08:46:31 IST" finished-at="2020-08-25T08:46:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- com.wordpress.qa.testcases.AboutUsPageTest -->
+      <class name="com.wordpress.qa.testcases.ProductsPageTest">
+        <test-method status="PASS" signature="before()[pri:0, instance:com.wordpress.qa.testcases.ProductsPageTest@2173f6d9]" name="before" is-config="true" duration-ms="19875" started-at="2020-08-25T08:41:32 IST" finished-at="2020-08-25T08:41:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="menuveify()[pri:1, instance:com.wordpress.qa.testcases.ProductsPageTest@2173f6d9]" name="menuveify" duration-ms="8073" started-at="2020-08-25T08:41:52 IST" finished-at="2020-08-25T08:42:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menuveify -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:com.wordpress.qa.testcases.ProductsPageTest@2173f6d9]" name="Teardown" is-config="true" duration-ms="201" started-at="2020-08-25T08:42:00 IST" finished-at="2020-08-25T08:42:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- com.wordpress.qa.testcases.ProductsPageTest -->
+      <class name="com.wordpress.qa.testcases.BPNPageTest">
+        <test-method status="PASS" signature="before()[pri:0, instance:com.wordpress.qa.testcases.BPNPageTest@6f195bc3]" name="before" is-config="true" duration-ms="16337" started-at="2020-08-25T08:42:55 IST" finished-at="2020-08-25T08:43:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="menuveify()[pri:1, instance:com.wordpress.qa.testcases.BPNPageTest@6f195bc3]" name="menuveify" duration-ms="8766" started-at="2020-08-25T08:43:11 IST" finished-at="2020-08-25T08:43:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menuveify -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:com.wordpress.qa.testcases.BPNPageTest@6f195bc3]" name="Teardown" is-config="true" duration-ms="374" started-at="2020-08-25T08:43:20 IST" finished-at="2020-08-25T08:43:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- com.wordpress.qa.testcases.BPNPageTest -->
+      <class name="com.wordpress.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="before()[pri:0, instance:com.wordpress.qa.testcases.HomePageTest@51e2adc7]" name="before" is-config="true" duration-ms="16903" started-at="2020-08-25T08:43:20 IST" finished-at="2020-08-25T08:43:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="menuveify()[pri:1, instance:com.wordpress.qa.testcases.HomePageTest@51e2adc7]" name="menuveify" duration-ms="80" started-at="2020-08-25T08:43:37 IST" finished-at="2020-08-25T08:43:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menuveify -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:com.wordpress.qa.testcases.HomePageTest@51e2adc7]" name="Teardown" is-config="true" duration-ms="2442" started-at="2020-08-25T08:43:37 IST" finished-at="2020-08-25T08:43:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method status="PASS" signature="before()[pri:0, instance:com.wordpress.qa.testcases.HomePageTest@51e2adc7]" name="before" is-config="true" duration-ms="17030" started-at="2020-08-25T08:43:39 IST" finished-at="2020-08-25T08:43:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="aboutveify()[pri:2, instance:com.wordpress.qa.testcases.HomePageTest@51e2adc7]" name="aboutveify" duration-ms="15261" started-at="2020-08-25T08:43:56 IST" finished-at="2020-08-25T08:44:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aboutveify -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:com.wordpress.qa.testcases.HomePageTest@51e2adc7]" name="Teardown" is-config="true" duration-ms="194" started-at="2020-08-25T08:44:12 IST" finished-at="2020-08-25T08:44:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method status="PASS" signature="before()[pri:0, instance:com.wordpress.qa.testcases.HomePageTest@51e2adc7]" name="before" is-config="true" duration-ms="17900" started-at="2020-08-25T08:44:12 IST" finished-at="2020-08-25T08:44:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="productveify()[pri:3, instance:com.wordpress.qa.testcases.HomePageTest@51e2adc7]" name="productveify" duration-ms="8274" started-at="2020-08-25T08:44:30 IST" finished-at="2020-08-25T08:44:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productveify -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:com.wordpress.qa.testcases.HomePageTest@51e2adc7]" name="Teardown" is-config="true" duration-ms="346" started-at="2020-08-25T08:44:38 IST" finished-at="2020-08-25T08:44:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method status="PASS" signature="before()[pri:0, instance:com.wordpress.qa.testcases.HomePageTest@51e2adc7]" name="before" is-config="true" duration-ms="17682" started-at="2020-08-25T08:44:38 IST" finished-at="2020-08-25T08:44:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="cropsveify()[pri:4, instance:com.wordpress.qa.testcases.HomePageTest@51e2adc7]" name="cropsveify" duration-ms="8685" started-at="2020-08-25T08:44:56 IST" finished-at="2020-08-25T08:45:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cropsveify -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:com.wordpress.qa.testcases.HomePageTest@51e2adc7]" name="Teardown" is-config="true" duration-ms="400" started-at="2020-08-25T08:45:05 IST" finished-at="2020-08-25T08:45:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method status="PASS" signature="before()[pri:0, instance:com.wordpress.qa.testcases.HomePageTest@51e2adc7]" name="before" is-config="true" duration-ms="17607" started-at="2020-08-25T08:45:05 IST" finished-at="2020-08-25T08:45:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="BPNveify()[pri:5, instance:com.wordpress.qa.testcases.HomePageTest@51e2adc7]" name="BPNveify" duration-ms="8582" started-at="2020-08-25T08:45:23 IST" finished-at="2020-08-25T08:45:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BPNveify -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:com.wordpress.qa.testcases.HomePageTest@51e2adc7]" name="Teardown" is-config="true" duration-ms="289" started-at="2020-08-25T08:45:31 IST" finished-at="2020-08-25T08:45:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+        <test-method status="PASS" signature="before()[pri:0, instance:com.wordpress.qa.testcases.HomePageTest@51e2adc7]" name="before" is-config="true" duration-ms="19311" started-at="2020-08-25T08:45:32 IST" finished-at="2020-08-25T08:45:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="Galleryveify()[pri:6, instance:com.wordpress.qa.testcases.HomePageTest@51e2adc7]" name="Galleryveify" duration-ms="9215" started-at="2020-08-25T08:45:51 IST" finished-at="2020-08-25T08:46:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Galleryveify -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:com.wordpress.qa.testcases.HomePageTest@51e2adc7]" name="Teardown" is-config="true" duration-ms="418" started-at="2020-08-25T08:46:00 IST" finished-at="2020-08-25T08:46:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- com.wordpress.qa.testcases.HomePageTest -->
+      <class name="com.wordpress.qa.testcases.GalleryPageTest">
+        <test-method status="PASS" signature="before()[pri:0, instance:com.wordpress.qa.testcases.GalleryPageTest@7a187f14]" name="before" is-config="true" duration-ms="16683" started-at="2020-08-25T08:42:27 IST" finished-at="2020-08-25T08:42:44 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- before -->
+        <test-method status="PASS" signature="menuveify()[pri:1, instance:com.wordpress.qa.testcases.GalleryPageTest@7a187f14]" name="menuveify" duration-ms="8698" started-at="2020-08-25T08:42:44 IST" finished-at="2020-08-25T08:42:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menuveify -->
+        <test-method status="PASS" signature="Teardown()[pri:0, instance:com.wordpress.qa.testcases.GalleryPageTest@7a187f14]" name="Teardown" is-config="true" duration-ms="2181" started-at="2020-08-25T08:42:52 IST" finished-at="2020-08-25T08:42:55 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- com.wordpress.qa.testcases.GalleryPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
